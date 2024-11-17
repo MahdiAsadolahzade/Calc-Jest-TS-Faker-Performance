@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1731838962367" clover="3.2.0">
+  <project timestamp="1731838962367" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4" elements="23" coveredelements="23" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
+    <file name="Add.ts" path="/home/mahdi/Desktop/MyProjects/Calculater/src/Functions/Add.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="DivideFunc.ts" path="/home/mahdi/Desktop/MyProjects/Calculater/src/Functions/DivideFunc.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="21" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="MultipleFunc.ts" path="/home/mahdi/Desktop/MyProjects/Calculater/src/Functions/MultipleFunc.ts">
+      <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="24" type="stmt"/>
+      <line num="12" count="90" type="cond" truecount="3" falsecount="0"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="16" count="20" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="Subtract.ts" path="/home/mahdi/Desktop/MyProjects/Calculater/src/Functions/Subtract.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
